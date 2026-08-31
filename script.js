@@ -40,6 +40,16 @@ const projects = [
         technologies: ["HTML", "CSS", "JavaScript"],
         liveLink: "https://erfanesmati1.github.io/Calculator/",
         githubLink: "https://github.com/erfanesmati1/Calculator"
+    },
+    {
+        number: "04",
+        title: "Domain Recon Tool",
+        description:
+            "A Python-based cybersecurity reconnaissance tool for DNS analysis, IP information, reverse DNS, and common TCP port scanning.",
+        image: "images/domain-recon-tool.png",
+        technologies: ["Python", "CustomTkinter", "DNS", "Networking", "Cybersecurity"],
+        liveLink: "",
+        githubLink: "https://github.com/erfanesmati1/domain-recon-tool"
     }
 ];
 
