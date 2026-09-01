@@ -50,7 +50,17 @@ const projects = [
         technologies: ["Python", "CustomTkinter", "DNS", "Networking", "Cybersecurity"],
         liveLink: "",
         githubLink: "https://github.com/erfanesmati1/domain-recon-tool"
-    }
+    },
+    {
+        number: "05",
+        title: "Modern Login Page",
+        description:
+            "A modern and responsive login page featuring a clean UI, smooth animations, password visibility toggle, and interactive form validation.",
+        image: "images/modern-login-page.png",
+        technologies: ["HTML", "CSS", "JavaScript"],
+        liveLink: "https://erfanesmati1.github.io/modern-Login-page/",
+        githubLink: "https://github.com/erfanesmati1/modern-Login-page"
+    },
 ];
 
 
