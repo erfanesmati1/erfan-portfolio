@@ -61,6 +61,18 @@ const projects = [
         liveLink: "https://erfanesmati1.github.io/modern-Login-page/",
         githubLink: "https://github.com/erfanesmati1/modern-Login-page"
     },
+    {
+
+        number: "06",
+        title: "IPv4 Subnet Calculator",
+        description:
+            "A professional IPv4 subnetting tool built with Python and Tkinter. It provides detailed network analysis, CIDR calculations, FLSM and VLSM subnetting, binary representations, host ranges, and subnet information.",
+        image: "images/ipv4-subnet-calculator.png",
+        technologies: ["Python", "Tkinter", "Networking", "IPv4", "FLSM", "VLSM"],
+        liveLink: "https://erfanesmati1.github.io/ipv4-subnet-calculator/",
+        githubLink: "https://github.com/erfanesmati1/ipv4-subnet-calculator"
+    }
+
 ];
 
 
