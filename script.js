@@ -71,6 +71,17 @@ const projects = [
         technologies: ["Python", "Tkinter", "Networking", "IPv4", "FLSM", "VLSM"],
         liveLink: "https://erfanesmati1.github.io/ipv4-subnet-calculator/",
         githubLink: "https://github.com/erfanesmati1/ipv4-subnet-calculator"
+    },
+
+    {
+        number: "07",
+        title: "Nadiri Dental Clinic",
+        description:
+            "Naderi Dental Clinic is a modern, responsive dental clinic website built with HTML, CSS, and JavaScript, featuring clinic services, gallery, appointment booking, contact information, and a clean RTL Persian/Dari design.",
+        image: "images/nadiri-dental-clinic.png",
+        technologies: ["HTML", "CSS", "JavaScript"],
+        liveLink: "https://erfanesmati1.github.io/naderi-dental-clinic/",
+        githubLink: "https://github.com/erfanesmati1/naderi-dental-clinic"
     }
 
 ];
