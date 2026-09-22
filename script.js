@@ -82,6 +82,17 @@ const projects = [
         technologies: ["HTML", "CSS", "JavaScript"],
         liveLink: "https://erfanesmati1.github.io/naderi-dental-clinic/",
         githubLink: "https://github.com/erfanesmati1/naderi-dental-clinic"
+    },
+
+    {
+        number: "08",
+        title: "ImagePress — Image Compressor",
+        description:
+            "A modern, privacy-focused image compressor that lets users compress, resize, and convert images directly in their browser without uploading files to a server.",
+        image: "images/imagepress.png",
+        technologies: ["HTML", "CSS", "JavaScript", "Canvas API"],
+        liveLink: "https://erfanesmati1.github.io/image-compressor/",
+        githubLink: "https://github.com/erfanesmati1/image-compressor"
     }
 
 ];
