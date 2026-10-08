@@ -93,6 +93,16 @@ const projects = [
         technologies: ["HTML", "CSS", "JavaScript", "Canvas API"],
         liveLink: "https://erfanesmati1.github.io/image-compressor/",
         githubLink: "https://github.com/erfanesmati1/image-compressor"
+    },
+    {
+        number: "09",
+        title: "Afghanistan Weather",
+        description:
+            "A modern bilingual weather website providing weather information for all 34 provinces of Afghanistan, with a responsive design and real-time weather data.",
+        image: "images/afghanistanweather.png",
+        technologies: ["HTML", "CSS", "JavaScript", "Weather API"],
+        liveLink: "https://afghanistanweather.vercel.app",
+        githubLink: "https://github.com/erfanesmati1/afghanistan-weather"
     }
 
 ];
